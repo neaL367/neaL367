@@ -1,8 +1,8 @@
 Hi 👋, I'm Atichat (neaL367)  
 
 🎓 ICT Student @ Sripatum University  
-💻 Front-End Developer | React Enthusiast  
-🎮 Aspiring Game Developer & Pixel Artist  
+💻 Front-End Developer  
+🎮 Aspiring Game Developer, Pixel Artist & RockstarGames Enthusiast  
 
 ### Featured Projects  
 🚀 [Portfolio Website](https://neal367.vercel.app/)  
